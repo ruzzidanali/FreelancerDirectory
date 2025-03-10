@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FreelancerDirectory.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250310123417_InitialCreate")]
+    [Migration("20250310152912_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
