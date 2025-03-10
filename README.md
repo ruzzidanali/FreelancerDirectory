@@ -33,13 +33,3 @@ The UI runs on `http://localhost:5173`.
 | POST | `/api/users` | Add new user |
 | PUT | `/api/users/{id}` | Update user |
 | DELETE | `/api/users/{id}` | Delete user |
-
----
-
-### **📌 Step 2: Add and Commit README.md**
-Run the following in **PowerShell or Git Bash**:  
-
-```sh
-git add README.md
-git commit -m "Added README.md"
-git push origin main
